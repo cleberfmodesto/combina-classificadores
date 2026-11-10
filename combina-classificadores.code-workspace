@@ -7,14 +7,6 @@
     "settings": {
         "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
         "workbench.colorCustomizations": {
-            "titleBar.activeBackground": "#215B76",
-            "titleBar.activeForeground": "#F3FBFF",
-            "titleBar.inactiveBackground": "#193C50",
-            "titleBar.inactiveForeground": "#D3E5ED",
-            "statusBar.background": "#2D7796",
-            "statusBar.foreground": "#FFFFFF",
-            "activityBar.background": "#215B76",
-            "activityBar.foreground": "#F3FBFF",
             "activityBar.activeBorder": "#84D7E8"
         }
     }
